@@ -1,0 +1,5 @@
+def greet_programmer(name = "Athena", language)
+puts "Hey, #{name}. We heard you are a great #{language} programmer."
+end
+
+greet_programmer
